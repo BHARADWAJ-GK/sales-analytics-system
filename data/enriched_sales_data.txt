@@ -1,0 +1,16 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T001|2024-12-01|P1|Laptop|2|45000.0|C001|North|beauty|Essence|2.56|True
+T002|2024-12-01|P2|Mouse|5|500.0|C002|South|beauty|Glamour Beauty|2.86|True
+T003|2024-12-02|P3|Keyboard|3|1500.0|C003|East|beauty|Velvet Touch|4.64|True
+T004|2024-12-02|P4|Monitor|1|12000.0|C004|West|beauty|Chic Cosmetics|4.36|True
+T005|2024-12-03|P5|Webcam|1|3000.0|C005|North|beauty|Nail Couture|4.32|True
+T006|2024-12-03|P6|Headphones|2|2000.0|C006|South|fragrances|Calvin Klein|4.37|True
+T007|2024-12-04|P1|Laptop|1|45000.0|C001|North|beauty|Essence|2.56|True
+T008|2024-12-04|P2|Mouse|4|500.0|C007|East|beauty|Glamour Beauty|2.86|True
+T009|2024-12-05|P3|Keyboard|2|1500.0|C008|West|beauty|Velvet Touch|4.64|True
+T010|2024-12-05|P4|Monitor|1|12000.0|C009|South|beauty|Chic Cosmetics|4.36|True
+T011|2024-12-06|P5|Webcam|1|3000.0|C010|North|beauty|Nail Couture|4.32|True
+T012|2024-12-06|P6|Headphones|3|2000.0|C011|East|fragrances|Calvin Klein|4.37|True
+T013|2024-12-07|P1|Laptop|1|45000.0|C012|West|beauty|Essence|2.56|True
+T014|2024-12-07|P2|Mouse|6|500.0|C013|South|beauty|Glamour Beauty|2.86|True
+T015|2024-12-08|P3|Keyboard|4|1500.0|C014|North|beauty|Velvet Touch|4.64|True
